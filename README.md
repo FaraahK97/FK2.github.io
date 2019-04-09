@@ -1,4 +1,4 @@
-
+FK2.github.io
 <!DOCTYPE html>
 
 <html>
@@ -22,17 +22,17 @@
 
     body {
 
-        background-color: black;
+        background="Red Galaxy Rose.jpg;
 
-        color: white;
+      
 
     }
 
     h1 {
 
-        font-family: 'Oswald', sans-serif;
+        font-family: 'Cursive', sans-serif;
 
-        color: blue;
+        color: white;
 
         font-size: 50px;
 
